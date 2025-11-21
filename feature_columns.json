@@ -1,0 +1,15 @@
+[
+  "Age",
+  "Income",
+  "Recency",
+  "Frequency",
+  "NumWebVisitsMonth",
+  "NumDealsPurchases",
+  "Kidhome",
+  "Teenhome",
+  "MaritalStatus_Single",
+  "MaritalStatus_Married",
+  "MaritalStatus_Divorced",
+  "MaritalStatus_Together",
+  "MaritalStatus_Widow"
+]
